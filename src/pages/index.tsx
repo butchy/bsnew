@@ -37,7 +37,7 @@ export default function HomePage({content}: PageProps) {
                         </Content>
                         <div className="flex gap-2 mt-6">
                             <Link href="/contact" className="inline-flex items-center justify-center whitespace-nowrap rounded-lg border border-transparent bg-blue-500 px-5 py-2 text-base font-medium text-white shadow-sm hover:bg-blue-600">
-                                {t('contact')}
+                                {t('contactla')}
                             </Link>
                             <Link href="/about" className="inline-flex gap-2 text-gray-700 items-center justify-center px-4 py-2 text-base font-medium">
                                 <span>
